@@ -30,7 +30,7 @@ Aplikasi manajemen jual beli barang untuk toko menggunakan laravel 5.2.
 #### step 1
 pastikan sebelum installasi, **composer**  sudah ter-install dengan benar 
 ```php
-git clone git@github.com:r3k4/pos.git
+git clone git@github.com:nailnafir/resto-wh.git
 cd pos
 composer install
 cp .env.example .env
